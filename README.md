@@ -47,10 +47,7 @@ The website allows users to register, browse courses, browse sample/previous yea
 4. Import the provided `database.sql` file into your database.
 5. Update `includes/db_config.php` with your database credentials.
 6. Start Apache & MySQL from XAMPP control panel.
-7. Access the project in your browser:
-    ```
-    http://localhost/E-Learning/
-    ```
+
 
 ---
 
