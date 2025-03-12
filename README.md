@@ -6,7 +6,7 @@ This is a **responsive E-learning platform** developed using:
 
 - HTML for structure
 - CSS for styling
-- JavaScript for frontend functionality
+- JavaScript for frontend functionality with jquery and ajax.
 - PHP for backend processing
 - MySQL for database management
 
